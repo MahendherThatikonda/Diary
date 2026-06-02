@@ -11,3 +11,5 @@ Clean and responsive UI
 Tech Stack
 
 C#, ASP.NET Core 9, Entity Framework Core, SQL Server, Bootstrap
+
+# Keywords: Web App, BackEnd, UI, User Interface
